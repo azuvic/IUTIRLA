@@ -69,32 +69,18 @@
     <a href="https://twitter.com/iutirla_web" >
         <img src="/IUTIRLA/public/assets/images/twitter.png" class="img-responsive" alt="Responsive image" align="middle" width="3.5%" height="3.5%">
     </a>
-   <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; Your Website 2014</span>
-                </div>
-                <div class="col-md-4">
-                    <ul class="list-inline social-buttons">
-                        <li><a href="#"><i class="fa fa-twitter"></i></a>
-                        </li>
-                        <li><a href="#"><i class="fa fa-facebook"></i></a>
-                        </li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-md-4">
-                    <ul class="list-inline quicklinks">
-                        <li><a href="#">Privacy Policy</a>
-                        </li>
-                        <li><a href="#">Terms of Use</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </footer>
+   <nav class="navbar navbar-default navbar-fixed-bottom">
+    <div class="container-fluid">
+        <p class="navbar-text pull-left">Alejandro Zuvic</p>
+        <a href="http://youtube.com/" class="navbar-btn btn btn-danger pull-right">Suscribe on Youtube</a>
+        <a href="https://www.facebook.com/iutirla.web.ve/">
+            <img src="/IUTIRLA/public/assets/images/facebook.png" class="img-responsive" alt="Responsive image"  width="3.5%" height="3.5%">
+        </a>
+        <a href="https://twitter.com/iutirla_web" >
+            <img src="/IUTIRLA/public/assets/images/twitter.png" class="img-responsive" alt="Responsive image"  width="3.5%" height="3.5%">
+        </a>
+        <a href="http://youtube.com/" class="navbar-btn btn btn-success pull-right">Facebook</a>
+    </div><!-- /.container-fluid -->
+</nav>
 </body>
 </html>
