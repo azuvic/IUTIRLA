@@ -68,7 +68,7 @@ return [
       | will not be safe. Please do this before deploying an application!
       |
      */
-    'key' => env('APP_KEY', 'SomeRandomString'),
+    'key' => env('APP_KEY', 'SomeRandomStringWith32Characters'),
     'cipher' => 'AES-256-CBC',
     /*
       |--------------------------------------------------------------------------
