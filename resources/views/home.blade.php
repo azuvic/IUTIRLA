@@ -1,4 +1,4 @@
-@extends('plantilla_grayscale')
+@extends('plantilla')
 
 @section('content')
 <div class="container">

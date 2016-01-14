@@ -79,7 +79,8 @@
         <a href="https://twitter.com/iutirla_web" >
             <img src="/IUTIRLA/public/assets/images/twitter.png" class="img-responsive" alt="Responsive image"  width="3.5%" height="3.5%">
         </a>
-        <a href="http://youtube.com/" class="navbar-btn btn btn-success pull-right">Facebook</a>
+        <a href="http://youtube.com/" class="navbar-btn btn btn-info pull-right" >Facebook</a>
+        
     </div><!-- /.container-fluid -->
 </nav>
 </body>

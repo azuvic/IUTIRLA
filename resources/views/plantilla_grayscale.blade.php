@@ -13,7 +13,7 @@
 
     <!-- Bootstrap Core CSS -->
     <link href="/IUTIRLA/public/assets/css/bootstrap.min.css" rel="stylesheet">
-
+    <link rel="icon" href="{!! asset('assets/images/logo.jpg') !!}"/>
     <!-- Custom CSS -->
     <link href="/IUTIRLA/public/assets-grayscale/css/grayscale.css" rel="stylesheet">
 
